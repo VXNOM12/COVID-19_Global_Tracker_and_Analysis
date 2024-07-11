@@ -51,5 +51,3 @@ This project was created by VXNOM12.
 - GitHub: [VXNOM12](https://github.com/VXNOM12)
 
 ```
-
-You can copy and paste this template into your `README.md` file in your project repository. Feel free to customize the sections as per your project's specifics!
