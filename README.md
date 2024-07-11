@@ -1,4 +1,4 @@
-Sure, here's a template for your `README.md` file with emojis and the requested information:
+
 
 ```markdown
 # COVID-19 Data Analysis Project
